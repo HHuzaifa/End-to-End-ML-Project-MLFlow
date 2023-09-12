@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/huzai/Desktop/End-to-End-ML-Project-MLFlow/mlruns/0/5eb015911b144cc98125d7e64f5109dd/artifacts
+end_time: 1694553706354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eb015911b144cc98125d7e64f5109dd
+run_name: tasteful-hen-81
+run_uuid: 5eb015911b144cc98125d7e64f5109dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694553698091
+status: 3
+tags: []
+user_id: huzai

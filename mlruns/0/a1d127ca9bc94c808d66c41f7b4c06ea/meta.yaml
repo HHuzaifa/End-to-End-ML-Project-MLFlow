@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/huzai/Desktop/End-to-End-ML-Project-MLFlow/mlruns/0/a1d127ca9bc94c808d66c41f7b4c06ea/artifacts
+end_time: 1694553926866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1d127ca9bc94c808d66c41f7b4c06ea
+run_name: legendary-hound-634
+run_uuid: a1d127ca9bc94c808d66c41f7b4c06ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694553920096
+status: 3
+tags: []
+user_id: huzai
